@@ -1,0 +1,4 @@
+dokku-01:
+  host: <IP_ADDRESS>
+  user: ubuntu
+  sudo: True

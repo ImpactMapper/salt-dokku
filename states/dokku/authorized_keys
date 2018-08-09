@@ -1,0 +1,1 @@
+command="FINGERPRINT=<FINGERPRINT> NAME=\"<USER_ALIAS>\" `cat /home/dokku/.sshcommand` $SSH_ORIGINAL_COMMAND",no-agent-forwarding,no-user-rc,no-X11-forwarding,no-port-forwarding <PUBLIC_KEY_CONTENTS>

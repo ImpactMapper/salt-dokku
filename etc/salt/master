@@ -1,0 +1,5 @@
+root_dir: ./
+
+file_roots:
+  base:
+    - ./states
